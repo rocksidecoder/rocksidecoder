@@ -5,7 +5,7 @@
 
 - 🌱 I'm expanding my knowledge of new web development trends right now.
 
-- 💬 Ask me about **Web Development and Research & Development**
+- 💬 Ask me about **Web Development or Research & Development**
 
 - 📫 you can reach me via my email  **rahulbandhaniya9720@gmail.com**
 
