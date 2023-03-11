@@ -1,5 +1,5 @@
 
-<h1 align="center">#Hi 👋, Myself Rahul Bandhaniya</h1>
+<h1 align="center">Hi 👋, Myself Rahul Bandhaniya</h1>
 <h3 align="center"> Software Engineer From <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
 
 
